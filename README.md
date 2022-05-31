@@ -2,8 +2,8 @@
 ## You have to write markdown
 ### Some Math Equation
 <p>First equation: $Y=X&beta;+&epsilon;_{y}, &forall;X$</p>
-<p>Second equation: X=Z&gamma;+&epsilon;_{x}</p>
-<p>$f_{1}(&omega;)=frac{&sigma;^2}{2&pi;},&omega;&in;[-&pi;,&pi;]$</p>
+<p>Second equation: $X=Z&gamma;+&epsilon;_{x}$</p>
+<p>$f_{1}(&omega;)=\frac{&sigma;^2}{2&pi;},&omega;&in;[-&pi;,&pi;]$</p>
 <p>1.First item a. first sub-itemA)first sub-sub-sub-itemb. second sub-item</p>
 <p>2.Second item</p>
 <p>3.Third item a. second sub item</p>
